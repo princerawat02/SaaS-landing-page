@@ -15,6 +15,7 @@ This project is a modern, responsive SaaS landing page template designed to show
 - **React**
 - **Tailwind CSS**
 - **TypeScript**
+- **FramerMotion**
 
 ## Live Demo
 
